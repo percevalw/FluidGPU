@@ -7,4 +7,4 @@ A SPH fluid simulation on GPU. This is based on the following research article :
 
 #### Current state
 Implemented z-curve indexing and radix sort over the particles
-<iframe  title="Particles" width="480" height="390" src="http://www.youtube.com/watch?v=k_myXL8LuvM?autoplay=1" frameborder="0" allowfullscreen></iframe>
+[![Particles](https://img.youtube.com/vi/k_myXL8LuvM/0.jpg)](https://www.youtube.com/watch?v=k_myXL8LuvM)
